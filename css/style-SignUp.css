@@ -1,0 +1,247 @@
+body{
+    background: url(pattern1.png);
+}
+.box1{
+    width: 700px;
+    height: 700px;
+    background-color: white;
+    float: left;
+    border-top-left-radius: 20px ;
+    border-bottom-left-radius: 20px;
+    border: none;
+}
+
+.formbox1{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.input{
+    margin-bottom: 30px;
+}
+
+
+#judul1{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: dodgerblue; 
+}
+
+#title{
+    width: 500px;
+    height: 50px;
+    font-size: 18px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: gray;
+}
+
+#firstname{
+    width: 240px;
+    height: 50px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: black;  
+}
+
+#lastname{
+    width: 240px;
+    height: 50px;
+    margin-left: 12px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: 18px;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+}
+
+
+#position{
+    width: 500px;
+    height: 50px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+}
+
+#company{
+    width: 500px;
+    height: 50px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+}
+
+#businessarena{
+    width: 240px;
+    height: 50px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+}
+
+#employees{
+    width: 240px;
+    height: 53px;
+    margin-left: 14px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-size: 18px;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black; 
+}
+
+.box2{
+    width: 700px;
+    height: 700px;
+    background-color: #363636;
+    margin-left: 700px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+}
+
+.formbox2{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 30px;
+    float: left;
+}
+
+#judul2{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: white;
+    margin-bottom: 15px; 
+}
+
+#additionalinformation{
+    width: 500px;
+    height: 48px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+}
+
+#zipcode{
+    width: 100px;
+    height: 48px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+}
+
+#place{
+    width: 373px;
+    height: 51px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+    margin-left: 20px;
+}
+
+#country{
+    width: 500px;
+    height: 48px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+}
+
+#code{
+    width: 100px;
+    height: 48px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+}
+
+#phonenumber{
+    width: 371px;
+    height: 51px;
+    font-size: 18px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: white; 
+    background: none;
+    margin-left: 20px;
+}
+
+.input label{
+    color: white;
+    font-size: 17px;
+}
+
+.text-reg p{
+    margin-top: 40px;
+    font-size: 18px;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: white;
+}
+
+.input button{
+    margin-top: 10px;
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 60px;
+    text-align: center;
+    -webkit-box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    border: none;
+    font-size: 18px;
+}
+
+.container-registration{
+    width: 1400px;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    -moz-box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    box-shadow: 9px 10px 15px -4px rgba(0,0,0,0.51);
+    border-radius: 20px;
+}
